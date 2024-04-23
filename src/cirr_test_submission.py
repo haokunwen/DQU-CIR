@@ -5,7 +5,6 @@ import open_clip
 import numpy as np
 import datasets
 import argparse
-
 from tqdm import tqdm as tqdm
 
 parser = argparse.ArgumentParser()
