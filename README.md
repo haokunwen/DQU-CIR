@@ -1,7 +1,7 @@
 # DQU-CIR
 ### [SIGIR 2024] - Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://github.com/haokunwen/DQU-CIR)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2404.15875)
 ![GitHub Repo stars](https://img.shields.io/github/stars/haokunwen/DQU-CIR?style=social)
 
 This is the official implementation of our paper "Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval".
