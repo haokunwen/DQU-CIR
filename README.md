@@ -69,7 +69,7 @@ If you find this work useful in your research, please consider citing:
     author = {Wen, Haokun and Song, Xuemeng and Chen, Xiaolin and Wei, Yinwei and Nie, Liqiang and Chua, Tat-Seng},
     title = {Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval},
     booktitle = {Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval},
-    pages = {},
+    pages = {229-239},
     publisher = {{ACM}},
     year = {2024}
 }
